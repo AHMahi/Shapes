@@ -1,0 +1,16 @@
+D:\C#\uniPrac\ShapeDrawer\bin\Debug\netcoreapp5.0\ShapeDrawer.exe
+D:\C#\uniPrac\ShapeDrawer\bin\Debug\netcoreapp5.0\ShapeDrawer.deps.json
+D:\C#\uniPrac\ShapeDrawer\bin\Debug\netcoreapp5.0\ShapeDrawer.runtimeconfig.json
+D:\C#\uniPrac\ShapeDrawer\bin\Debug\netcoreapp5.0\ShapeDrawer.runtimeconfig.dev.json
+D:\C#\uniPrac\ShapeDrawer\bin\Debug\netcoreapp5.0\ShapeDrawer.dll
+D:\C#\uniPrac\ShapeDrawer\bin\Debug\netcoreapp5.0\ref\ShapeDrawer.dll
+D:\C#\uniPrac\ShapeDrawer\bin\Debug\netcoreapp5.0\ShapeDrawer.pdb
+D:\C#\uniPrac\ShapeDrawer\obj\Debug\netcoreapp5.0\ShapeDrawer.csproj.AssemblyReference.cache
+D:\C#\uniPrac\ShapeDrawer\obj\Debug\netcoreapp5.0\ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\uniPrac\ShapeDrawer\obj\Debug\netcoreapp5.0\ShapeDrawer.AssemblyInfoInputs.cache
+D:\C#\uniPrac\ShapeDrawer\obj\Debug\netcoreapp5.0\ShapeDrawer.AssemblyInfo.cs
+D:\C#\uniPrac\ShapeDrawer\obj\Debug\netcoreapp5.0\ShapeDrawer.csproj.CoreCompileInputs.cache
+D:\C#\uniPrac\ShapeDrawer\obj\Debug\netcoreapp5.0\ShapeDrawer.dll
+D:\C#\uniPrac\ShapeDrawer\obj\Debug\netcoreapp5.0\ref\ShapeDrawer.dll
+D:\C#\uniPrac\ShapeDrawer\obj\Debug\netcoreapp5.0\ShapeDrawer.pdb
+D:\C#\uniPrac\ShapeDrawer\obj\Debug\netcoreapp5.0\ShapeDrawer.genruntimeconfig.cache
